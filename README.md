@@ -2,4 +2,4 @@
 
 
 
-Pisze Kody....
+Pisze Kody.
