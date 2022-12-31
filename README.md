@@ -13,7 +13,6 @@
 
 - 📝 I regularly write articles on [My web soon](My web soon)
 
-- 📫 How to reach me **My web soon**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
