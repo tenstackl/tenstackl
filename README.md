@@ -9,9 +9,8 @@
 
 - 🌱 I’m currently learning **JAVASCRIPT, Sql and PHP**
 
-- 👨‍💻 All of my projects are available at [My web soon](My web soon)
+- 👨‍💻 All of my projects are available at https://pedro.mobi
 
-- 📝 I regularly write articles on [My web soon](My web soon)
 
 
 <h3 align="left">Connect with me:</h3>
