@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://twitter.com/lipa_pedro" target="blank"><img src="https://img.shields.io/twitter/follow/lipa_pedro?logo=twitter&style=for-the-badge" alt="lipa_pedro" /></a> </p>
 
-- 🔭 I’m currently working on **My Web**
+- 🔭 I’m currently working on **-**
 
 - 🌱 I’m currently learning **JAVASCRIPT, Sql and PHP**
 
-- 👨‍💻 All of my projects are available at https://pedro.mobi
+- 👨‍💻 All of my projects are available at -
 
 
 
